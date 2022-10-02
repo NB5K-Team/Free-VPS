@@ -1,4 +1,4 @@
-name: RDP1
+name: Oracle-DEMO
 
 on: workflow_dispatch
 
